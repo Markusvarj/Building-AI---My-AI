@@ -4,7 +4,7 @@
 
 ## Johdanto
 
-Järjestelmä, joka hyödyntää tekoälyä ja koneoppimista videon laadun, värin, kontrastin ja tarkuuden parantamiseksi reaaliajassa. Kun käyttäjä katsoo televisiota tai muuta laitetta muokkaus tapahtuu automaattisesti ja kuva parannetaan kyseiselle näytölle sopivaksi. Kuvan muokkauksessa otetaan huomioon ruudun koko, laite, kirkkaus ja paneelimateriaali parhaan kuvan luomiseksi.
+Tämä projekti on luotu osana "Building AI" kurssia. Järjestelmä, joka hyödyntää tekoälyä ja koneoppimista videon laadun, värin, kontrastin ja tarkuuden parantamiseksi reaaliajassa. Kun käyttäjä katsoo televisiota tai muuta laitetta muokkaus tapahtuu automaattisesti ja kuva parannetaan kyseiselle näytölle sopivaksi. Kuvan muokkauksessa otetaan huomioon ruudun koko, laite, kirkkaus ja paneelimateriaali parhaan kuvan luomiseksi.
 
 ## Kehitys
 
