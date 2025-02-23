@@ -18,7 +18,6 @@ Televisiot ja muut älylaitteet vääristävät aitoa kuvaa paljon ilman mahdoll
 ## Käytännössä
 
 Ohjelmistona asennettu tekoäly pohja joka kävisi läpi koneiston. Tekoäly analysoi jatkuvasti muokattvaa kuvaa ja sitä, onko kyseessä televisio ohjelma, elokuva vai peli. Optimointi oppisi jatkuvasti eri tottumuksista ja materiaaleista ja oppisi näin lisää siitä, millaista muokkausta milloinkin tehdään. 
-!(https://images.almatalent.fi/1152x864/https://assets.almatalent.fi/image/8b39d466-0927-5573-b6f5-d0ebbdbffda7)
 
 
 ## Datan kerääminen
@@ -32,10 +31,3 @@ Datan kerääminen ja yhteistyö isojen yritystenkanssa. Isojen yritysten mukaan
 
 Kehitys voisi jossain kohtaa päästä pisteeseen, jossa puuttuvia kuvia ja materiaalin kuvien määrää saataisiin nostettua (FPS). Kehityksen mukana voitaisiin myös nostaa jotakin tiettyä yksityiskohtaa esimerkiksi,mustan toistoa tai kirkasta kuvaa. 
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [kuva näytöistä](https://www.tivi.fi/uutiset/naytto-kuin-alytelkkari-testissa-samsungin-m5-ja-m7-mallit/b50b948d-9f37-4b46-b3f9-089beaee9caf)
